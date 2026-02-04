@@ -38,5 +38,6 @@ Your solution should include at least one real workflow, for example:
 - Documentation: Clear setup and run instructions.
 
 ## What to Submit
+- When you are complete, put up a Pull Request against this repository with your changes.
 - A short summary of your approach and tools used in your PR submission
 - Any additional information or approach that helped you.
