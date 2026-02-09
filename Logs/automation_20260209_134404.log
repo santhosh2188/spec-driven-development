@@ -1,0 +1,42 @@
+2026-02-09 13:44:04 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:44:04 - TestAutomation.conftest - INFO - TEST STARTED: test_add_single_expense
+2026-02-09 13:44:04 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:44:04 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:44:05 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[contains(text(), 'Clear All Expenses')]")
+2026-02-09 13:44:05 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[contains(text(), 'Clear All Expenses')]") to be clickable
+2026-02-09 13:44:05 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:44:05 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:44:05 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:44:05 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:44:05 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:44:06 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:44:06 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Food & Dining' from select element ('id', 'category')
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Lunch at restaurant' in element ('id', 'description')
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:44:16 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:44:17 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:44:17 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:44:17 - TestAutomation.conftest - INFO - TEST COMPLETED: test_add_single_expense
+2026-02-09 13:44:17 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:44:17 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:44:17 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:44:17 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:44:17 - TestAutomation.conftest - INFO - ==================================================

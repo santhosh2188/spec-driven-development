@@ -1,0 +1,1202 @@
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - Initializing WebDriver
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:48 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Chrome WebDriver initialized successfully
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - TEST STARTED: test_delete_single_expense
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Navigating to URL: http://127.0.0.1:5000
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Verifying Expense Tracker page is loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Verifying Expense Tracker page is loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Verifying Expense Tracker page is loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Verifying Expense Tracker page is loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Verifying Expense Tracker page is loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Verifying Expense Tracker page is loaded
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('tag name', 'h1')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Expense Tracker page is successfully loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Expense Tracker page is successfully loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Expense Tracker page is successfully loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Expense Tracker page is successfully loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Expense Tracker page is successfully loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Expense Tracker page is successfully loaded
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Adding expense: amount=50.00, category=Shopping, description=Item to delete
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Adding expense: amount=50.00, category=Shopping, description=Item to delete
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Adding expense: amount=50.00, category=Shopping, description=Item to delete
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Adding expense: amount=50.00, category=Shopping, description=Item to delete
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Adding expense: amount=50.00, category=Shopping, description=Item to delete
+2026-02-09 13:58:50 - TestAutomation.Pages.ExpensePage - INFO - Adding expense: amount=50.00, category=Shopping, description=Item to delete
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Entering text '50.00' in element ('id', 'amount')
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:50 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'amount') to be visible
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Entered amount: 50.00
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Entered amount: 50.00
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Entered amount: 50.00
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Entered amount: 50.00
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Entered amount: 50.00
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Entered amount: 50.00
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Selecting 'Shopping' from select element ('id', 'category')
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'category') to be visible
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Selected category: Shopping
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Selected category: Shopping
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Selected category: Shopping
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Selected category: Shopping
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Selected category: Shopping
+2026-02-09 13:58:51 - TestAutomation.Pages.ExpensePage - INFO - Selected category: Shopping
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Entering text 'Item to delete' in element ('id', 'description')
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('id', 'description') to be visible
+2026-02-09 13:58:52 - TestAutomation.Pages.ExpensePage - INFO - Entered description: Item to delete
+2026-02-09 13:58:52 - TestAutomation.Pages.ExpensePage - INFO - Entered description: Item to delete
+2026-02-09 13:58:52 - TestAutomation.Pages.ExpensePage - INFO - Entered description: Item to delete
+2026-02-09 13:58:52 - TestAutomation.Pages.ExpensePage - INFO - Entered description: Item to delete
+2026-02-09 13:58:52 - TestAutomation.Pages.ExpensePage - INFO - Entered description: Item to delete
+2026-02-09 13:58:52 - TestAutomation.Pages.ExpensePage - INFO - Entered description: Item to delete
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Clicking element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]")
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:52 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('xpath', "//button[@type='submit'][contains(text(), 'Add Expense')]") to be clickable
+2026-02-09 13:58:53 - TestAutomation.Pages.ExpensePage - INFO - Clicked Add Expense button
+2026-02-09 13:58:53 - TestAutomation.Pages.ExpensePage - INFO - Clicked Add Expense button
+2026-02-09 13:58:53 - TestAutomation.Pages.ExpensePage - INFO - Clicked Add Expense button
+2026-02-09 13:58:53 - TestAutomation.Pages.ExpensePage - INFO - Clicked Add Expense button
+2026-02-09 13:58:53 - TestAutomation.Pages.ExpensePage - INFO - Clicked Add Expense button
+2026-02-09 13:58:53 - TestAutomation.Pages.ExpensePage - INFO - Clicked Add Expense button
+2026-02-09 13:58:54 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was added
+2026-02-09 13:58:54 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was added
+2026-02-09 13:58:54 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was added
+2026-02-09 13:58:54 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was added
+2026-02-09 13:58:54 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was added
+2026-02-09 13:58:54 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was added
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'expenses-table') is visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:55 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'expenses-table') to be visible
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' found in table
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' found in table
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' found in table
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' found in table
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' found in table
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' found in table
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:58:56 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 12
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 12
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 12
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 12
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 12
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 12
+2026-02-09 13:58:57 - TestAutomation.Tests.ExpenseTest - INFO - Expense count before deletion: 12
+2026-02-09 13:58:57 - TestAutomation.Tests.ExpenseTest - INFO - Expense count before deletion: 12
+2026-02-09 13:58:57 - TestAutomation.Tests.ExpenseTest - INFO - Expense count before deletion: 12
+2026-02-09 13:58:57 - TestAutomation.Tests.ExpenseTest - INFO - Expense count before deletion: 12
+2026-02-09 13:58:57 - TestAutomation.Tests.ExpenseTest - INFO - Expense count before deletion: 12
+2026-02-09 13:58:57 - TestAutomation.Tests.ExpenseTest - INFO - Expense count before deletion: 12
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Deleting expense with description: Item to delete
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Deleting expense with description: Item to delete
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Deleting expense with description: Item to delete
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Deleting expense with description: Item to delete
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Deleting expense with description: Item to delete
+2026-02-09 13:58:57 - TestAutomation.Pages.ExpensePage - INFO - Deleting expense with description: Item to delete
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Clicked delete button for expense 'Item to delete'
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Clicked delete button for expense 'Item to delete'
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Clicked delete button for expense 'Item to delete'
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Clicked delete button for expense 'Item to delete'
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Clicked delete button for expense 'Item to delete'
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Clicked delete button for expense 'Item to delete'
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Utils.UtilLib - INFO - Accepting browser alert
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Accepted delete confirmation
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Accepted delete confirmation
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Accepted delete confirmation
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Accepted delete confirmation
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Accepted delete confirmation
+2026-02-09 13:58:58 - TestAutomation.Pages.ExpensePage - INFO - Accepted delete confirmation
+2026-02-09 13:58:59 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was deleted
+2026-02-09 13:58:59 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was deleted
+2026-02-09 13:58:59 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was deleted
+2026-02-09 13:58:59 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was deleted
+2026-02-09 13:58:59 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was deleted
+2026-02-09 13:58:59 - TestAutomation.Pages.ExpensePage - INFO - Verifying expense 'Item to delete' was deleted
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:58:59 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' successfully deleted
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' successfully deleted
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' successfully deleted
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' successfully deleted
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' successfully deleted
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense 'Item to delete' successfully deleted
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Verifying success message
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Verifying success message
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Verifying success message
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Verifying success message
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Verifying success message
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Verifying success message
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('class name', 'flash-success') is visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash-success') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'flash')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'flash') to be visible
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Success message verified: Expense deleted successfully!
+×
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Success message verified: Expense deleted successfully!
+×
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Success message verified: Expense deleted successfully!
+×
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Success message verified: Expense deleted successfully!
+×
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Success message verified: Expense deleted successfully!
+×
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Success message verified: Expense deleted successfully!
+×
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Getting expenses count
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Getting text from element ('class name', 'count')
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('class name', 'count') to be visible
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 11
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 11
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 11
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 11
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 11
+2026-02-09 13:59:00 - TestAutomation.Pages.ExpensePage - INFO - Expense count: 11
+2026-02-09 13:59:00 - TestAutomation.Tests.ExpenseTest - INFO - Expense count after deletion: 11
+2026-02-09 13:59:00 - TestAutomation.Tests.ExpenseTest - INFO - Expense count after deletion: 11
+2026-02-09 13:59:00 - TestAutomation.Tests.ExpenseTest - INFO - Expense count after deletion: 11
+2026-02-09 13:59:00 - TestAutomation.Tests.ExpenseTest - INFO - Expense count after deletion: 11
+2026-02-09 13:59:00 - TestAutomation.Tests.ExpenseTest - INFO - Expense count after deletion: 11
+2026-02-09 13:59:00 - TestAutomation.Tests.ExpenseTest - INFO - Expense count after deletion: 11
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - TEST COMPLETED: test_delete_single_expense
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:59:00 - TestAutomation.conftest - INFO - ==================================================

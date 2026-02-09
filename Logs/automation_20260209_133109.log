@@ -1,0 +1,16 @@
+2026-02-09 13:31:09 - TestAutomation.Pages.ExpensePage - INFO - Verifying Expense Tracker page is loaded
+2026-02-09 13:31:09 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:31:09 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:31:09 - TestAutomation.Utils.UtilLib - INFO - Checking if element ('tag name', 'h1') is visible
+2026-02-09 13:31:09 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:31:09 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:31:09 - TestAutomation.Utils.UtilLib - INFO - Waiting for element ('tag name', 'h1') to be visible
+2026-02-09 13:31:09 - TestAutomation.conftest - INFO - 
+==================================================
+2026-02-09 13:31:09 - TestAutomation.conftest - INFO - TEST COMPLETED: test_add_multiple_expenses
+2026-02-09 13:31:09 - TestAutomation.conftest - INFO - Status: Unknown
+2026-02-09 13:31:09 - TestAutomation.conftest - INFO - ==================================================
+
+2026-02-09 13:31:09 - TestAutomation.conftest - INFO - ==================================================
+2026-02-09 13:31:09 - TestAutomation.conftest - INFO - Closing WebDriver
+2026-02-09 13:31:09 - TestAutomation.conftest - INFO - ==================================================

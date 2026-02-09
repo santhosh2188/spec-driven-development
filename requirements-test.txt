@@ -1,0 +1,23 @@
+# Selenium and WebDriver
+selenium==4.15.2
+
+# Pytest and plugins
+pytest==7.4.3
+pytest-xdist==3.5.0
+pytest-timeout==2.2.0
+pytest-html==4.1.1
+pytest-metadata==2.0.4
+
+# Allure reporting
+allure-pytest==2.13.2
+allure-behave==2.13.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Logging
+colorama==0.4.6
+
+# Optional: For generating test reports
+pyunitreport==0.3.0
